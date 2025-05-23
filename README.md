@@ -105,7 +105,7 @@ The result aligns with roles requiring deep thinking and analysis like system an
 ### 📁 Evidence
 
 ![CV Submission](https://github.com/user-attachments/assets/7710dc87-966a-4202-a7c6-ef75ac153391) 
-![Create CV]!
+[My CV (pdf)](https://github.com/Mhlana17/Digital-Portfolio/blob/main/Sisonke_Mhlana_CV.pdf)
 
 
 ### 🧠 Reflection (STAR Technique)
