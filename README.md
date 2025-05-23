@@ -105,7 +105,7 @@ The result aligns with roles requiring deep thinking and analysis like system an
 ### 📁 Evidence
 
 ![CV Submission](https://github.com/user-attachments/assets/7710dc87-966a-4202-a7c6-ef75ac153391) 
-![Create CV]![image]
+![Create CV]!
 
 
 ### 🧠 Reflection (STAR Technique)
